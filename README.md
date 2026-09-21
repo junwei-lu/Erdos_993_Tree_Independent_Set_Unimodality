@@ -1,7 +1,7 @@
 # Erdos problem #993 - a Lean 4 formalization
 
-A complete, machine-checked formalization of **Theorem 1.1** of
-*Unimodality of independence polynomials for sufficiently large forests*
+A complete, machine-checked formalization of 
+*Unimodality of independence polynomials for sufficiently large forests* by Ethan X. Fang, Junwei Lu, Eran Nevo, Yuan Yao, and Hailun Zheng, (https://arxiv.org/pdf/2609.20961)[https://arxiv.org/pdf/2609.20961]
  in Lean 4 over Mathlib.
 
 The theorem proved here is:
